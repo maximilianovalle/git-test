@@ -2,3 +2,4 @@ Testing the following command:
 $ git config --global core.editor "code --wait"
 
 Testing how to write proper Github commit messages!
+Re-testing Github commit messages and wrapping text.
